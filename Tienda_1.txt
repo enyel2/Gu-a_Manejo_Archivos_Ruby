@@ -1,0 +1,4 @@
+Producto1, 10
+Producto2, 20
+Producto3, 4
+Producto8, 9
